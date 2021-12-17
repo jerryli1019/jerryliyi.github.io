@@ -2,6 +2,4 @@
 title: 📚 Projects
 ---
 
-{% for post in site.posts %}
-{% include posts-list-item.html %}
-{% endfor %}
+[COGS 108](cogs108_project)
