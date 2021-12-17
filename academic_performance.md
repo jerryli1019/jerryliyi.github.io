@@ -11,7 +11,7 @@ Below is my quarter by quarter performance. Mostly, the hyperlinks will take you
 ## Fall 2021
 
 | Course Number      | Course Name | Grade     |
-| :----:        |    :----:   |          :----: |
+| :----:        |    :----:   |          :---- |
 | [COGS 101B](https://catalog.ucsd.edu/courses/COGS.html) |Learning, Memory, and Attention|A|
 | [CSE 12](https://catalog.ucsd.edu/courses/CSE.html) |Basic Data Structures and Object-Oriented Design|A+|
 | [CSE 15L](https://catalog.ucsd.edu/courses/CSE.html) |Software Tools and Techniques Laboratory|A+|
@@ -23,7 +23,7 @@ Below is my quarter by quarter performance. Mostly, the hyperlinks will take you
 ## Summer 2021
 
 | Course Number      | Course Name | Grade     |
-| :----:        |    :----:   |          :----: |
+| :----:        |    :----:   |          :---- |
 | [COGS 107A](https://catalog.ucsd.edu/courses/COGS.html) |Neuroanatomy and Physiology|A+|
 | [COGS 107B](https://catalog.ucsd.edu/courses/COGS.html) |Systems Neuroscience|A|
 | [CSE 11](https://catalog.ucsd.edu/courses/CSE.html) |Introduction to Programming and Computational Problem-Solving: Accelerated Pace|A+|
@@ -34,7 +34,7 @@ Below is my quarter by quarter performance. Mostly, the hyperlinks will take you
 ## Spring 2021
 
 | Course Number      | Course Name | Grade     |
-| :----:        |    :----:   |          :----: |
+| :----:        |    :----:   |          :---- |
 | [COGS 1](https://catalog.ucsd.edu/courses/COGS.html) |Introduction to Cognitive Science|A|
 | [COGS 17](https://catalog.ucsd.edu/courses/COGS.html) |Neurobiology of Cognition|A|
 | [DSC 30](https://catalog.ucsd.edu/courses/DSC.html)|Data Structures and Algorithms for Data Science|A-|
@@ -45,7 +45,7 @@ Below is my quarter by quarter performance. Mostly, the hyperlinks will take you
 ## Winter 2021
 
 | Course Number      | Course Name | Grade     |
-| :----:        |    :----:   |          :----: |
+| :----:        |    :----:   |          :---- |
 | [AWP 4B](https://awp.ucsd.edu/courses/index.html) |Analytical Writing and Academic English B|A-|
 | [COGS 108](https://github.com/COGS108) |Data Science in Practice|A+|
 | [DSC 20](https://catalog.ucsd.edu/courses/DSC.html)|Programming and Basic Data Structures for Data Science|A+|
@@ -56,7 +56,7 @@ Below is my quarter by quarter performance. Mostly, the hyperlinks will take you
 ## Fall 2020
 
 | Course Number      | Course Name | Grade     |
-| :----:        |    :----:   |          :----: |
+| :----:        |    :----:   |          :---- |
 | [AWP 4A](https://awp.ucsd.edu/courses/index.html) |Analytical Writing and Academic English A|P|
 | [COGS 9](https://catalog.ucsd.edu/courses/COGS.html) |Introduction to Data Science|A|
 | [DSC 10](https://dsc10.com/)|Principles of Data Science|A|
@@ -67,7 +67,7 @@ Below is my quarter by quarter performance. Mostly, the hyperlinks will take you
 ## Summer 2020
 
 | Course Number      | Course Name | Grade     |
-| :----:        |    :----:   |          :----: |
+| :----:        |    :----:   |          :---- |
 | [MATH 18](https://sites.google.com/ucsd.edu/18s120/) |Linear Algebra|A|
 | [Phil 10](https://catalog.ucsd.edu/courses/PHIL.html) |Introduction to Logic|A+|
 | [PSYC 60](https://catalog.ucsd.edu/courses/PSYC.html) |Introduction to Statistics|A+|
