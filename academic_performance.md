@@ -27,7 +27,7 @@ Below is my quarter by quarter performance. Mostly, the hyperlinks will take you
 | [COGS 107A](https://catalog.ucsd.edu/courses/COGS.html) |Neuroanatomy and Physiology|A+|
 | [COGS 107B](https://catalog.ucsd.edu/courses/COGS.html) |Systems Neuroscience|A|
 | [CSE 11](https://catalog.ucsd.edu/courses/CSE.html) |Introduction to Programming and Computational Problem-Solving: Accelerated Pace|A+|
-| [PHIL 27](https://catalog.ucsd.edu/courses/PHIL.html)|Ethics And Society II|P|
+| [POLI 27](https://catalog.ucsd.edu/courses/POLI.html)|Ethics And Society I|P|
 | [WCWP 10B](https://warren.ucsd.edu/warren-writing/wcwp-10b.html)|The Writing Course B|A+|
 |<img width=200/>|<img width=800/>|<img width=200/>|
 
@@ -46,7 +46,7 @@ Below is my quarter by quarter performance. Mostly, the hyperlinks will take you
 
 | Course Number      | Course Name | Grade     |
 | :----:        |    :----:   |          :----: |
-| [AWP 4B](https://awp.ucsd.edu/courses/index.html) |Analytical Writing and Academic English A|A-|
+| [AWP 4B](https://awp.ucsd.edu/courses/index.html) |Analytical Writing and Academic English B|A-|
 | [COGS 108](https://github.com/COGS108) |Data Science in Practice|A+|
 | [DSC 20](https://catalog.ucsd.edu/courses/DSC.html)|Programming and Basic Data Structures for Data Science|A+|
 | [MATH 183](https://catalog.ucsd.edu/courses/MATH.html)|Statistical Methods|A+|
