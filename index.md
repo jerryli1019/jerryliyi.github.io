@@ -3,7 +3,7 @@
 
 ## 💯 About Me
 
-I'm a second year student at [University of California San Diego](https://ucsd.edu/), double majoring in [Data Science (DS25)](https://datascience.ucsd.edu/academics/undergraduate/major-requirements/) under the [Halıcıoğlu Data Science Institute at UC San Diego](https://datascience.ucsd.edu/) and [Cognitive Science with Spec. Machine Learning & Neural Computation](https://cogsci.ucsd.edu/undergraduates/major/machine-learning.html) under the [Cognitive Science Department at UC San Diego](https://cogsci.ucsd.edu/). I also minor in [Computer Engineering (EC26)](https://ece.ucsd.edu/undergraduate/undergraduate-programs/minors) under the [Electrical and Computer Engineering Department at UC San Diego](https://ece.ucsd.edu/).
+I'm a second year student at [University of California San Diego](https://ucsd.edu/), double majoring in [Data Science (DS25)](https://datascience.ucsd.edu/academics/undergraduate/major-requirements/) under the [Halıcıoğlu Data Science Institute at UC San Diego](https://datascience.ucsd.edu/) and [Cognitive Science with Spec. Machine Learning & Neural Computation](https://cogsci.ucsd.edu/undergraduates/major/machine-learning.html) under the [Cognitive Science Department at UC San Diego](https://cogsci.ucsd.edu/). I am also minoring in [Computer Engineering (EC26)](https://ece.ucsd.edu/undergraduate/undergraduate-programs/minors) under the [Electrical and Computer Engineering Department at UC San Diego](https://ece.ucsd.edu/).
 
 ## 🦕 What I've done before
 
