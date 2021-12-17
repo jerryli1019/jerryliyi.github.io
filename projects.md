@@ -2,6 +2,6 @@
 title: 📚 Projects
 ---
 
-{% for posts in site.projects %}
-{% include posts-list-item.html %}
+{% for post in site.projects %}
+{% include projects-list-item.html %}
 {% endfor %}
