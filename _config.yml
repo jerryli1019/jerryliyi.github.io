@@ -23,6 +23,9 @@ nav-links:
   - name: Academic Performance
     url: /academic_performance
     external: false
+  - name: Projects
+    url: /projects
+    external: false
 
 # for the homepage image + big text next to it
 greeting_image: https://weiyueli7.github.io/weiyueli.github.io/assets/me.png
