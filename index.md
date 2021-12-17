@@ -9,6 +9,17 @@ I'm a second year student at [University of California San Diego](https://ucsd.e
 
 Coding and Teaching
 
+## 💼 Skills
+
+- Python
+- Java
+- HTML
+- LaTex
+- C++
+- Linux
+- Bash
+- R
+
 ## 👋🏻 Say hi
 
 Wanna chat? Feel free to reach out!
