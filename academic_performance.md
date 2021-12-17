@@ -15,7 +15,7 @@ Below is my quarter by quarter performance. Mostly, the hyperlinks will take you
 | [COGS 101B](https://catalog.ucsd.edu/courses/COGS.html) |Learning, Memory, and Attention|A|
 | [CSE 12](https://catalog.ucsd.edu/courses/CSE.html) |Basic Data Structures and Object-Oriented Design|A+|
 | [CSE 15L](https://catalog.ucsd.edu/courses/CSE.html) |Software Tools and Techniques Laboratory|A+|
-| [CSE 20](https://catalog.ucsd.edu/courses/CSE.html) |Discrete Mathematics|A|
+| [CSE 20](https://discrete-math-for-cs.github.io/website/courseInfo.html) |Discrete Mathematics|A|
 | [DSC 40A](https://dsc-courses.github.io/dsc40a-2021-fa/)|Theoretical Foundations of Data Science I|A+|
 | [DSC 95](https://sites.google.com/ucsd.edu/dsc-95-fall-2021)|Tutor Apprenticeship in Data Science|P|
 |<img width=200/>|<img width=800/>|<img width=200/>|
