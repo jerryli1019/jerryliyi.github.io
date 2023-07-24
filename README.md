@@ -1,6 +1,6 @@
 ---
 title: My Personal Website
-author: Weiyue Li
+author: Yi Li
 date: 12/17/2021
 ---
 
